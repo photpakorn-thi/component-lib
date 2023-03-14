@@ -1,0 +1,8 @@
+{
+  "name": "component-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/photpakorn-thi/component-lib.git",
+  "author": "photpakorn.thi <pthianma.w@gmail.com>",
+  "license": "MIT"
+}
